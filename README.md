@@ -8,3 +8,5 @@ Automatic liver tumor segmentation is a paramount important application for live
 
 [Publication](https://www.nature.com/articles/s41598-023-46580-4) 
 [Thesis](https://kasunhettihewa.github.io/Liver-Tumor-Segmentation_MANet/assets/docs/Thesis.pdf)
+<br>
+![MANet](assets/img/MANet.png)
